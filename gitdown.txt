@@ -1,4 +1,5 @@
 I git knocked down, but I git up again
+<<<<<<< HEAD
 You're never gonna keep me down!
 I git knocked down, but I git up again
 You're never gonna keep me down!
@@ -6,3 +7,5 @@ You're never gonna keep me down!
 Git back! Git back! Git back to where you once belonged!
 
 I can't git no (satisfaction)
+
+Git good
